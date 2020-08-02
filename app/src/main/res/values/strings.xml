@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraPermissionApp</string>
+    <string name="buttonText">Open Camera</string>
+</resources>
