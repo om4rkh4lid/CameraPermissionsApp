@@ -53,7 +53,6 @@ public class MainActivity extends AppCompatActivity {
                 */
                 if (checkSelfPermission(Manifest.permission.CAMERA)
                         == PackageManager.PERMISSION_GRANTED) {
-                    Log.d("omar", "useCamera: here4");
                     useCamera();
                 }
                 // TODO(4) - if the permission isn't granted (returned false from checkSelfPermission statement)
